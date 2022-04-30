@@ -14,9 +14,9 @@
 <br>
 
 Hi I am Satish Kumar Ojha a full-stack web developer with a specialization in MERN stack. Capable of writing
-efficient code in React.js, Node.js and Express.js. Collaborative, team player who is proficientin working 
-with inter-disciplinary teams and executing goal-oriented projects. Passionate aboutcoding and looking for an 
-opportunity in software development.
+efficient code in HTML, CSS, JavaScript, React.js, Node.js and Express.js. Collaborative, team player who is 
+proficient in working with inter-disciplinary teams and executing goal-oriented projects. Passionate about coding 
+and looking for an opportunity in software development.
 
 <br>
 
